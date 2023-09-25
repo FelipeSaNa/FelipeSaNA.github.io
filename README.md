@@ -28,11 +28,6 @@ As part of my work at the International Organization on Migration (Mexico)
 ![Alt Text](/docs/assets/images/dashboard_1.png)
 ![Alt Text](/docs/assets/images/dashboard_2.png)
 
-![Alt Text](/docs/assets/images/red_actores_sistema_justicia.html)
-
-
-![Alt Text](/docs/assets/images/)
-
 
 
 
