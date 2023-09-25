@@ -21,5 +21,6 @@ Kobo Toolbox, Microsoft Forms, Google Forms
 
 As part of my work at the International Organization on Migration (Mexico)
 
+<img src="{{ "/assets/img/gif_aeropuertos_200.gif" | prepend: site.baseurl | prepend: site.url}}" alt="Airport rejections in Mexico" />
 
 ![Airport rejections in Mexico](/assets/img/gif_aeropuertos_200.gif)
