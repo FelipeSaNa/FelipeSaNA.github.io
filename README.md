@@ -21,21 +21,14 @@ Inkscape
 
 I have participated in multiple projects and 
 
-# Design of visual communication for the Protection Unit
+### Data Analysis and 
 
 As part of my work at the International Organization on Migration (Mexico)
 
 ![Alt Text](/docs/assets/images/dashboard_1.png)
 ![Alt Text](/docs/assets/images/dashboard_2.png)
 
-
-
-
-
-<iframe src="/docs/assets/images/red_actores_sistema_justicia.html" height="600px" width="100%" style="border:none;"></iframe
-
-<iframe src="/docs/assets/images/juego.html" height="400px" width="100%" style="border:none;"></iframe
-
+# texto
 
 
 ![Airport rejections in Mexico](/docs/assets/images/gif_aeropuertos_200.gif)
@@ -43,3 +36,9 @@ As part of my work at the International Organization on Migration (Mexico)
 
  
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+
+<iframe src="/docs/assets/images/red_actores_sistema_justicia.html" height="900px" width="100%" style="border:none;"></iframe
+
+
+<iframe src="/docs/assets/images/juego.html" height="1500px" width="100%" style="border:none;"></iframe
