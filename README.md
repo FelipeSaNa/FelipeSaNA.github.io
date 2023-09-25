@@ -16,8 +16,6 @@ Inkscape
 - MS in Public Policy | Universidad Iberoamericana Mexico City(_May 2020_)
 - J.D. |  Universidad Iberoamericana Mexico City (_May 2015_)
 
-## Work experience
-- Things
 
 ## Projects
 
@@ -36,11 +34,12 @@ As part of my work at the International Organization on Migration (Mexico)
 
 <iframe src="/docs/assets/images/red_actores_sistema_justicia.html" height="600px" width="100%" style="border:none;"></iframe
 
+<iframe src="/docs/assets/images/juego.html" height="400px" width="100%" style="border:none;"></iframe
 
-<iframe src="/docs/assets/images/mapa.html" height="600px" width="100%" style="border:none;"></iframe
 
-<iframe src="/docs/assets/images/juego.html" height="600px" width="100%" style="border:none;"></iframe
 
 ![Airport rejections in Mexico](/docs/assets/images/gif_aeropuertos_200.gif)
 
+{% include mapa.html %}
+ 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
