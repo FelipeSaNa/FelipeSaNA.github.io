@@ -41,4 +41,4 @@ As part of my work at the International Organization on Migration (Mexico)
 # <iframe src="/docs/assets/images/red_actores_sistema_justicia.html" height="900px" width="100%" style="border:none;"></iframe
 
 
-<iframe src="/docs/assets/images/juego.html" height="1100px" width="100%" style="border:none;"></iframe
+<iframe src="/docs/assets/images/juego.html" height="500px" width="100%" style="border:none;"></iframe
