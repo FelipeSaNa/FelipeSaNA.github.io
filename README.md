@@ -31,7 +31,7 @@ As part of my work at the International Organization on Migration (Mexico)
 ![Alt Text](/docs/assets/images/dashboard_2.png)
 
  
-{{% include red_actores_sistema_justicia.html %}}
+{% include red_actores_sistema_justicia.html %}}
 
 <a href="/_includes/red_actores_sistema_justicia.html">Cool link</a>
 
