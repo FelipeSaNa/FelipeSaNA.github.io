@@ -33,7 +33,7 @@ As part of my work at the International Organization on Migration (Mexico)
  
 {{% include red_actores_sistema_justicia.html %}}
 
-
+<a href="/_includes/red_actores_sistema_justicia.html">Cool link</a>
 
 ![Airport rejections in Mexico](/docs/assets/images/gif_aeropuertos_200.gif)
 {% raw %} 
