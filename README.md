@@ -26,12 +26,14 @@ Inkscape
 As part of my work at the International Organization on Migration (Mexico)
 
 ![Alt Text](/docs/assets/images/dashboard_1.png)
-![Alt Text](/docs/assets/images/dashboard_2.png)
+![Alt Text](/docs/assets/images/red_actires_sistema_justicia.html)
 
+![Alt Text](/docs/assets/images/)
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
 
 
 ![Airport rejections in Mexico](/docs/assets/images/gif_aeropuertos_200.gif)
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
