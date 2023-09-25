@@ -21,6 +21,8 @@ Inkscape
 
 ## Projects
 
+I have participated in multiple projects and 
+
 # Design of visual communication for the Protection Unit
 
 As part of my work at the International Organization on Migration (Mexico)
@@ -28,9 +30,9 @@ As part of my work at the International Organization on Migration (Mexico)
 ![Alt Text](/docs/assets/images/dashboard_1.png)
 ![Alt Text](/docs/assets/images/dashboard_2.png)
 
-{% raw %} 
-{% include red_actores_sistema_justicia.html %}
-{% endraw %} 
+ 
+{{% include red_actores_sistema_justicia.html %}}
+
 
 
 ![Airport rejections in Mexico](/docs/assets/images/gif_aeropuertos_200.gif)
