@@ -1,6 +1,6 @@
 ## Professional summary
 
-Data analyst and human rights expert with more than seven years of experience in the design, implementation, and evaluation of research projects regarding various human rights issues through quantitative and qualitative methodologies, focusing mainly on measuring and improving vulnerable migrants (GBV victims, crime victims, human trafficking victims) and victims of human rights violations protection policies.
+Data analyst and human rights expert with more than seven years of experience in the design, implementation, and evaluation of data based projects regarding various human rights issues through quantitative and qualitative methodologies, focusing mainly on measuring and improving vulnerable migrants (GBV victims, crime victims, human trafficking victims) and victims of human rights violations protection policies, visualizing data and forecasting.
 
 ## Data analysis tools
 R/RStudio, Git (GitHub), Power BI
@@ -35,10 +35,11 @@ As part of my work at the International Organization on Migration (Mexico)
 
 
  
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
 
 <iframe src="/docs/assets/images/red_actores_sistema_justicia.html" height="900px" width="100%" style="border:none;"></iframe
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 <iframe src="/docs/assets/images/mapa.html" height="500px" width="100%" style="border:none;"></iframe
+
+
