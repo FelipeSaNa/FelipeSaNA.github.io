@@ -25,8 +25,8 @@ Inkscape
 
 As part of my work at the International Organization on Migration (Mexico)
 
-![Alt Text](/assets/dashboard_1.png.gif)
-![Alt Text](/assets/dashboard_2.png.gif)
+![Alt Text](/docs/assets/images/dashboard_1.png)
+![Alt Text](/docs/assets/images/dashboard_2.png)
 
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
@@ -34,4 +34,4 @@ As part of my work at the International Organization on Migration (Mexico)
 
 
 
-![Airport rejections in Mexico](/assets/img/gif_aeropuertos_200.gif)
+![Airport rejections in Mexico](/docs/assets/images/gif_aeropuertos_200.gif)
