@@ -40,6 +40,6 @@ As part of my work at the International Organization on Migration (Mexico)
 
 ![Airport rejections in Mexico](/docs/assets/images/gif_aeropuertos_200.gif)
 
-{% include mapa.html %}
+
  
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
