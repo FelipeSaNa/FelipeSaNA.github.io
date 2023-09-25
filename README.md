@@ -30,7 +30,7 @@ As part of my work at the International Organization on Migration (Mexico)
 
 
 {% include red_actores_sistema_justicia.html %}
-
+{% include mapa.html %}
 
 ![Airport rejections in Mexico](/docs/assets/images/gif_aeropuertos_200.gif)
 
