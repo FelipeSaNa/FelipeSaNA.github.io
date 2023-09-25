@@ -19,7 +19,7 @@ Kobo Toolbox, Microsoft Forms, Google Forms
 
 # Design of visual communication for the Protection Unit
 
-As part of my work at the International Organization on Migration (México)
+As part of my work at the International Organization on Migration (Mexico)
 
 
 ![Airport rejections in Mexico](/assets/img/gif_aeropuertos_200.gif)
