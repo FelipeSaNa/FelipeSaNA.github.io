@@ -28,13 +28,13 @@ As part of my work at the International Organization on Migration (Mexico)
 ![Alt Text](/docs/assets/images/dashboard_1.png)
 ![Alt Text](/docs/assets/images/dashboard_2.png)
 
-
+{% raw %} 
 {% include red_actores_sistema_justicia.html %}
-
+{% endraw %} 
 
 
 ![Airport rejections in Mexico](/docs/assets/images/gif_aeropuertos_200.gif)
-
+{% raw %} 
 {% include mapa.html %}
-
+{% endraw %} 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
