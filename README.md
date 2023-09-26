@@ -36,10 +36,11 @@ As part of my work at the International Organization on Migration (Mexico)
 
  
 
-<iframe src="/docs/assets/images/red_actores_sistema_justicia.html" height="900px" width="100%" style="border:none;"></iframe
+<iframe src="/docs/assets/images/red_actores_sistema_justicia.html" height="900px" width="100%" style="border:none;"></iframe>
+# </iframe>
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
-<iframe src="/docs/assets/images/mapa.html" height="500px" width="100%" style="border:none;"></iframe
-
+<iframe src="/docs/assets/images/mapa.html" height="500px" width="100%" style="border:none;"></iframe>
+# </iframe>
 
