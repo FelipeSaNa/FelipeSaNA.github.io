@@ -44,7 +44,7 @@ As part of my work at the International Organization on Migration (Mexico)
 <iframe src="/docs/assets/images/mapa.html" height="600px" width="100%" style="border:none;"></iframe>
 
 
-<iframe src="/docs/assets/images/index.html" height="600px" width="100%" style="border:none;"></iframe>
+<iframe src="/docs/assets/images/game/index.html" height="600px" width="100%" style="border:none;"></iframe>
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
