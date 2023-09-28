@@ -38,6 +38,15 @@ As part of my work at the International Organization on Migration (Mexico)
 
 <a href="https://publications.iom.int/books/desplazamiento-interno-migracion-y-retorno-en-la-frontera-norte-de-mexico-una-perspectiva">The IOM report is available here</a>
 
+\begin{multicols}{2}
+![Alt Text](/docs/assets/images/Mapa_republica_homicidios.PNG)
+![Alt Text](/docs/assets/images/Estadisticas_republica_general.PNG)
+\end{multicols}
+\begin{multicols}{2}
+![Alt Text](/docs/assets/images/Estadisticas_CDMX_homicidios.PNG)
+![Alt Text](/docs/assets/images/Estadisticas_Celaya_general.PNG)
+\end{multicols}
+
 <a href="https://www.mucd.org.mx/atlas-de-homicidios-mexico/">The MUCD homicides report is available here</a>
 
 
