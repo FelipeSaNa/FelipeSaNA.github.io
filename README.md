@@ -27,7 +27,7 @@ As part of my work at the International Organization on Migration (Mexico)
 
 
 
-![Alt Text](/docs/assets/images/dashboard_2.png)
+![Alt Text](/pdf/Informe_EM_V4.pdf)
 
 
 <a href="https://asiloenmexico.ibero.mx/">The webpage of the International Protection Observatory is available here</a>

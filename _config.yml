@@ -1,10 +1,12 @@
 title: Felipe Sánchez Nájera
 logo: /docs/assets/images/Foto_FSN_OIM.jpg
 description:
-   Data analyst and human rights expert with more than seven years of experience in designing, implementing, and evaluating data-based projects (including the collection, cleaning, analysis, visualization/communication, and modeling/forecasting of data) regarding various human rights issues.
+  Data analyst and human rights expert with more than seven years of experience in designing, implementing, and evaluating data-based projects (including the collection, cleaning, analysis, visualization/communication, and modeling/forecasting of data) regarding various human rights issues.
   <br><br>
   Data analysis tools - R/RStudio, Git (GitHub), Power BI
+  <br><br>
   Survey tools - Kobo Toolbox, Microsoft Forms, Google Forms
+  <br><br>
   Design tools - Inkscape
   <br><br>
 remote_theme: pages-themes/minimal@v0.2.0
