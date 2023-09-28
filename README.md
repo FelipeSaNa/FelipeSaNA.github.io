@@ -147,7 +147,7 @@ This project analyzes official information on the deployment of the National Gua
 
 To measure the impact that airbnb has had in the Mexico City housing and renting, I compiled the information of airbnbs within the city, along with their median cost, and their geographical location. This project is currently in development.
 
-<iframe src="/docs/assets/images/mapa.html" height="800px" width="100%" style="border:none;"></iframe>
+<iframe src="/docs/assets/images/mapa.html" height="1000px" width="100%" style="border:none;"></iframe>
 
 ## Publications
 
@@ -169,7 +169,7 @@ Another example is a book chapter where I analyzed the evoluiton of legislative 
 
 Created a simple platforming game in Javascript with a character drawn by my wife. The purpose was testing my basic Javscript programming skills. You can play it below!
 
-<iframe src="/docs/assets/images/game/index.html" height="500px" width="100%" style="border:none;"></iframe>
+<iframe src="/docs/assets/images/game/index.html" height="600px" width="100%" style="border:none;"></iframe>
 
 
 
