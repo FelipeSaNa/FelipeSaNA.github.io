@@ -1,6 +1,6 @@
 ## Professional summary
 
-Data analyst and human rights expert with more than seven years of experience in the design, implementation, and evaluation of data based projects regarding various human rights issues through quantitative and qualitative methodologies, focusing mainly on measuring and improving vulnerable migrants (GBV victims, crime victims, human trafficking victims) and victims of human rights violations protection policies, visualizing data and forecasting.
+Data analyst and human rights expert with more than seven years of experience in the design, implementation, and evaluation of data based projects (including the collection, cleaning, analysis, visualization/communication and modelling/forecasting of data) regarding various human rights issues.
 
 ## Data analysis tools
 R/RStudio, Git (GitHub), Power BI
@@ -30,6 +30,7 @@ As part of my work at the International Organization on Migration (Mexico)
 
 # texto
 
+<a href="https://app.powerbi.com/links/zanivRMLKn?ctid=1588262d-23fb-43b4-bd6e-bce49c8e6186&pbi_source=linkShare/">A dummy dashboard is available here</a>
 
 ![Airport rejections in Mexico](/docs/assets/images/gif_aeropuertos_200.gif)
 
