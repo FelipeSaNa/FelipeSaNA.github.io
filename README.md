@@ -17,7 +17,7 @@ As part of my work at the International Organization on Migration (Mexico)
 <a href="https://publications.iom.int/books/desplazamiento-interno-migracion-y-retorno-en-la-frontera-norte-de-mexico-una-perspectiva">The IOM report is available here</a>
 
 
-![Alt Text](/pdf/Informe_EM_V4.pdf)
+[Alt Text](/pdf/Informe_EM_V4.pdf)
 
 
 <a href="https://asiloenmexico.ibero.mx/">The webpage of the International Protection Observatory is available here</a>
