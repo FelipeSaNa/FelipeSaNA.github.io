@@ -1,8 +1,10 @@
-title: Felipe Sánchez Nájera
-logo: /docs/assets/images/Foto_FSN_OIM.jpg
-description: Data analyst and human rights expert with more than seven years of experience in the design, implementation, and evaluation of data based projects (including the collection, cleaning, analysis, visualization/communication, and modeling/forecasting of data) regarding various human rights issues.
-#show_downloads: true
+title: Felipe Sánchez Nájera # your name (or website title) here
+logo: /docs/assets/images/Foto_FSN_OIM.jpg # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+   Data analyst and human rights expert with more than seven years of experience in designing, implementing, and evaluating data-based projects (including the collection, cleaning, analysis, visualization/communication, and modeling/forecasting of data) regarding various human rights issues.
+  <br><br>
+  Second description 
   <br><br>
   <a href="www.linkedin.com/in/felipe-sanchez-najera/">View My LinkedIn Profile</a> 
-  <br><br>
 theme: jekyll-theme-minimal
+
