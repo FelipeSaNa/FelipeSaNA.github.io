@@ -57,6 +57,7 @@ I designed, supervised, and implemented a research project to analyze the racial
 
 The databases were cleaned, merged, and analyzed through the R programming language. Conducted 60 semi-structured interviews with key stakeholders (NGOs, International Organizations, Embassies, and Immigrants). Interviews were later compiled, classified in a database, and analyzed with Natural Language Processing tools in R programming language, and analyzed in a confidential report given to the Mexican government.
 
+![Alt Text](/docs/assets/images/grafica_nacionalidades_no_visa.png)
 
 ![Airport rejections in Mexico](/docs/assets/images/gif_aeropuertos_200.gif)
 
