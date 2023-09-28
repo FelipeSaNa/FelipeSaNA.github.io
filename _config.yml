@@ -1,9 +1,8 @@
 title: Felipe Sánchez Nájera 
-logo: "/docs/assets/images/Foto_FSN_OIM.jpg"  
-description: > 
+logo: /docs/assets/images/Foto_FSN_OIM.jpg  
+description:  
    Data analyst and human rights expert with more than seven years of experience in designing, implementing, and evaluating data-based projects (including the collection, cleaning, analysis, visualization/communication, and modeling/forecasting of data) regarding various human rights issues.
   <br><br>
   <a href="www.linkedin.com/in/felipe-sanchez-najera/">View My LinkedIn Profile</a> 
-  >
 theme: jekyll-theme-minimal
 
