@@ -1,15 +1,3 @@
-
-## Data analysis tools
-R/RStudio, Git (GitHub), Power BI
-
-## Survey tools
-Kobo Toolbox, Microsoft Forms, Google Forms
-
-## Design tools
-Inkscape
-
-
-
 ## Projects
 
 I have participated in multiple projects and initiatives ranging from various topics including 
@@ -26,6 +14,8 @@ As part of my work at the International Organization on Migration (Mexico)
 
 
 
+<a href="https://publications.iom.int/books/desplazamiento-interno-migracion-y-retorno-en-la-frontera-norte-de-mexico-una-perspectiva">The IOM report is available here</a>
+
 
 ![Alt Text](/pdf/Informe_EM_V4.pdf)
 
@@ -36,13 +26,16 @@ As part of my work at the International Organization on Migration (Mexico)
 
 <a href="https://www.mqup.ca/voluntary-and-forced-migration-in-latin-america-products-9780228011842.php?page_id=46&#!prettyPhoto">The book is available here</a>
 
-<a href="https://publications.iom.int/books/desplazamiento-interno-migracion-y-retorno-en-la-frontera-norte-de-mexico-una-perspectiva">The IOM report is available here</a>
+
 
 
 ![Alt Text](/docs/assets/images/Mapa_republica_homicidios.PNG)
+
 ![Alt Text](/docs/assets/images/Estadisticas_republica_general.PNG)
-![Alt Text](/docs/assets/images/Estadisticas_CDMX_homicidios.PNG)
-![Alt Text](/docs/assets/images/Estadisticas_Celaya_general.PNG)
+
+![Alt Text](/docs/assets/images/CDMX_homicidios.PNG)
+
+![Alt Text](/docs/assets/images/Celaya_general.PNG)
 
 <a href="https://www.mucd.org.mx/atlas-de-homicidios-mexico/">The MUCD homicides report is available here</a>
 
@@ -68,6 +61,6 @@ As part of my work at the International Organization on Migration (Mexico)
 <iframe src="/docs/assets/images/game/index.html" height="600px" width="100%" style="border:none;"></iframe>
 
 
-
+Thank you for visiting my portfolio!
 
 ![Thank you for visiting my portfolio!](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
