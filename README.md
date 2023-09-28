@@ -1,6 +1,3 @@
-## Professional summary
-
-Data analyst and human rights expert with more than seven years of experience in the design, implementation, and evaluation of data based projects (including the collection, cleaning, analysis, visualization/communication and modelling/forecasting of data) regarding various human rights issues.
 
 ## Data analysis tools
 R/RStudio, Git (GitHub), Power BI
