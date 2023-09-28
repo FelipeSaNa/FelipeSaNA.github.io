@@ -137,7 +137,7 @@ To analyze the evolution of the migration narrative by the Mexican president, I 
 
 ### Deployment of the national guard (Guardia Nacional) and its relationship with migrant detentions
 
-This project analyzes official information on the deployment of the National Guard and immigration detentions at the state level, with the objective of identifying the existence of coincidences or discrepancies between both practices.
+This project analyzes official information on the deployment of the National Guard and immigration detentions at the state level, with the objective of identifying the existence of coincidences or discrepancies between both practices (the following graphs were created with public information).
 
 ![Airport rejections in Mexico](/docs/assets/images/gif_detenciones_200.gif)
 
