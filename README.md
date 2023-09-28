@@ -8,7 +8,7 @@ As part of my work at the International Organization on Migration (Mexico), I ha
 
 To ensure the 
 
-### Data visualization pipeline
+### Data visualization dashboard
 
 Generated two interactive dashboards (Power-BI) based on case analysis and statistical information visualization of the information collected by the protection unit.
 
@@ -17,6 +17,7 @@ Generated two interactive dashboards (Power-BI) based on case analysis and stati
 
 <a href="https://app.powerbi.com/links/zanivRMLKn?ctid=1588262d-23fb-43b4-bd6e-bce49c8e6186&pbi_source=linkShare/">A dummy dashboard is available here</a>
 
+### Automated reporting 
 
 [A dummy report example is available here](/pdf/Informe_delitos_desaparicion.pdf)
 
@@ -82,16 +83,34 @@ Created an interactive network of more than 150 relevant actors and their relati
 
 Supervision, management, and implementation of collaborative projects on various matters such as asylum policy, forced migration, enforced disappearances, clandestine graves, prison system reform, and use of force by police agents, among other human rights issues through Data-driven methodologies.
 
+### International Protection Observatory
+
 Obtained through litigation 6,331 refugee status determinations issued by the Mexican Government between 2011 to 2017. A representative sample of the determinations was analyzed through a database of 60 variables. In addition, ten thematic research reports were published to analyze the information in
 the database.
+
+![Alt Text](/docs/assets/images/Portada_apatridia.PNG)
+
+![Alt Text](/docs/assets/images/Portada_genero.PNG)
+
+![Alt Text](/docs/assets/images/ejemplo_genero_1.PNG)
+
+![Alt Text](/docs/assets/images/ejemplo_genero_2.PNG)
 
 <a href="https://asiloenmexico.ibero.mx/">The webpage of the International Protection Observatory is available here</a>
 
 
+### Dissappearences and clandestine graves findings
 
+![Alt Text](/docs/assets/images/violencia_y_terror_portada.PNG)
+
+![Alt Text](/docs/assets/images/ejemplo_fosas_1.PNG)
+
+![Alt Text](/docs/assets/images/ejemplo_fosas_2.PNG)
 
 
 ## Independent research projects
+
+### Publications
 
 As part of my work I have also created projects which purpose is to advance the academic literature of migration/refugees policies implementation through data analysis. As part of this effort I have written papers and book chapters outlining different aspects of policy implementation. 
 
@@ -99,6 +118,8 @@ As part of my work I have also created projects which purpose is to advance the 
 <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/imig.12910">The Cartagena Declaration analysis paper is available here</a>
 
 <a href="https://www.mqup.ca/voluntary-and-forced-migration-in-latin-america-products-9780228011842.php?page_id=46&#!prettyPhoto">The book is available here</a>
+
+### Work in progress
 
 
 ## For fun projects
