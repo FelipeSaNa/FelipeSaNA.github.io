@@ -42,6 +42,7 @@ using KOBO toolbox. The data was cleaned and analyzed with the R programming lan
 Designed, supervised, and implemented a research project to analyze the racial profiling conducts of the Mexican Government in airports against asylum seekers and migrants. Obtained five governmental databases (from 2017 to 2021) of in-airport deportations. The databases were cleaned, merged, and analyzed through the R programming language. Conducted 60 semi-structured interviews with key stakeholders (NGOs, International Organizations, Embassies, and Immigrants). Interviews were later compiled, classified in a database, and analyzed with Natural Language Processing tools in R programming language.
 
 
+![Airport rejections in Mexico](/docs/assets/images/gif_aeropuertos_200.gif)
 
 ## Data Analysis projects as part of México Unido Contra la Delincuencia 
 
@@ -68,7 +69,6 @@ Obtained, cleaned, and analyzed a governmental database of 918,468 observations 
 
 
 
-![Airport rejections in Mexico](/docs/assets/images/gif_aeropuertos_200.gif)
 
 
 ## Data Analysis projects as part of Elementa DDHH
@@ -80,12 +80,18 @@ Created an interactive network of more than 150 relevant actors and their relati
 
 ## Data Analysis projects as part of the Human Rights Center of Universidad Iberoamericana
 
+Supervision, management, and implementation of collaborative projects on various matters such as asylum policy, forced migration, enforced disappearances, clandestine graves, prison system reform, and use of force by police agents, among other human rights issues through Data-driven methodologies.
+
+Obtained through litigation 6,331 refugee status determinations issued by the Mexican Government between 2011 to 2017. A representative sample of the determinations was analyzed through a database of 60 variables. In addition, ten thematic research reports were published to analyze the information in
+the database.
+
 <a href="https://asiloenmexico.ibero.mx/">The webpage of the International Protection Observatory is available here</a>
 
 
 
 
-## Research projects
+
+## Independent research projects
 
 As part of my work I have also created projects which purpose is to advance the academic literature of migration/refugees policies implementation through data analysis. As part of this effort I have written papers and book chapters outlining different aspects of policy implementation. 
 
@@ -97,13 +103,15 @@ As part of my work I have also created projects which purpose is to advance the 
 
 ## For fun projects
 
+### Platforming game
+
 Created a simple platforming game in Javascript with a character drawn by my wife. The purpose was testing my basic Javscript programming skills. You can play it below!
 
 <iframe src="/docs/assets/images/game/index.html" height="600px" width="100%" style="border:none;"></iframe>
 
 
 
-
+### Airbnb map
 
 <iframe src="/docs/assets/images/mapa.html" height="600px" width="100%" style="border:none;"></iframe>
 
