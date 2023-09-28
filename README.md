@@ -27,7 +27,6 @@ The template was made using Inkscape and the IOM-Branding guidelines to ensure t
 
 ![Alt Text](/docs/assets/images/ejemplo_delitos_1.PNG)
 
-![Alt Text](/docs/assets/images/ejemplo_delitos_2.PNG)
 
 
 [A dummy report example is available here](/pdf/Informe_delitos_desaparicion.pdf)
@@ -142,15 +141,13 @@ This project analyzes official information on the deployment of the National Gua
 
 ![Airport rejections in Mexico](/docs/assets/images/gif_detenciones_200.gif)
 
-![Airport rejections in Mexico](/docs/assets/images/gif_incidencia_200.gif)
-
 ![Airport rejections in Mexico](/docs/assets/images/detenciones_despliegue_gif_200.gif)
 
 ### Airbnb impact analysis
 
 To measure the impact that airbnb has had in the Mexico City housing and renting, I compiled the information of airbnbs within the city, along with their median cost, and their geographical location. This project is currently in development.
 
-<iframe src="/docs/assets/images/mapa.html" height="600px" width="100%" style="border:none;"></iframe>
+<iframe src="/docs/assets/images/mapa.html" height="800px" width="100%" style="border:none;"></iframe>
 
 ## Publications
 
@@ -172,7 +169,7 @@ Another example is a book chapter where I analyzed the evoluiton of legislative 
 
 Created a simple platforming game in Javascript with a character drawn by my wife. The purpose was testing my basic Javscript programming skills. You can play it below!
 
-<iframe src="/docs/assets/images/game/index.html" height="600px" width="100%" style="border:none;"></iframe>
+<iframe src="/docs/assets/images/game/index.html" height="500px" width="100%" style="border:none;"></iframe>
 
 
 
