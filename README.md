@@ -35,7 +35,7 @@ The template was made using Inkscape and the IOM-Branding guidelines to ensure t
 [A dummy report example is available here](/pdf/Informe_delitos_desaparicion.pdf)
 
 
-## Report on displacement
+### Report on displacement
 
 I co-designed, co-coordinated, and co-implemented a research project regarding the internally displaced persons, returnees, and migrants arriving at 12 points of interest in the northern Mexican border. For the project, a sample of 638 migrants (including information on their 1142 family members) was collected
 using KOBO toolbox. The data was cleaned and analyzed with the R programming language for a report (published in July 2023 by IOM).
@@ -114,7 +114,7 @@ To fullfil those goals, I obtained through litigation 6,331 refugee status deter
 
 ![Alt Text](/docs/assets/images/ejemplo_genero_1.PNG)
 
-![Alt Text](/docs/assets/images/ejemplo_genero_2.PNG)
+![Alt Text](/docs/assets/images/Ejemplo_genero_2.PNG)
 
 <a href="https://asiloenmexico.ibero.mx/">The webpage of the International Protection Observatory is available here</a>
 
@@ -167,6 +167,7 @@ Created a simple platforming game in Javascript with a character drawn by my wif
 
 
 
-Thank you for visiting my portfolio!
+
 
 ![Thank you for visiting my portfolio!](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+Thank you for visiting my portfolio!
