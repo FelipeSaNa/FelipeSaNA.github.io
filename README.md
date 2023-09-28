@@ -1,6 +1,6 @@
 # Projects
 
-I have participated in multiple projects and initiatives ranging from various topics including 
+I have worked and done multiple research projects in universities, think tanks, NGOs, and international organizations, all of which had had a vital component of data collection, processing, and analysis. Some of the projects I have implemented, and achievements are briefly mentioned below:
 
 ## Data Analysis projects as part of the International Organization on Migration (IOM) 
 
@@ -87,6 +87,9 @@ Obtained, cleaned, and analyzed a governmental database of 918,468 observations 
 
 ![Alt Text](/docs/assets/images/Ejemplo_antidrogas_2.PNG)
 
+<a href="https://datosabiertosdrogas.mucd.org.mx/">The MUCD drug confiscations dashboard is available here</a>
+
+
 ## Data Analysis projects as part of Elementa DDHH
 
 Created an interactive network of more than 150 relevant actors and their relationships in 8 grave human rights violations cases and the Mexico-United States drug policy. The information was cleanded and analyzed with the R programming language (tidyverse, visNetwork, and igraph packages).
@@ -104,7 +107,7 @@ To fullfill the information gap regaring the Refugee Status Determinations emmit
 
 To fullfil those goals, I obtained through litigation 6,331 refugee status determinations issued by the Mexican Government between 2011 to 2017. A representative sample of the determinations was analyzed through a database of 60 variables. In addition, ten thematic research reports were published to analyze the information in the database.
 
-![Alt Text](/docs/assets/images/Portada_apatridia.PNG)
+
 
 ![Alt Text](/docs/assets/images/Portada_genero.PNG)
 
@@ -128,25 +131,29 @@ As part of the researchers team, I participated in a project that aimed to quant
 
 ## Independent research projects
 
+### Text mining of morning conferences "Mañaneras" of president Andrés Manuel López Obrador (AMLO)
+
+To analyze the evolution of the migration narrative by the Mexican president, I analyze periodically the raw data of the daily morning conferencesthrough data mining and text analysis tools (tidytext, quanteda). The data is scraped (rvest) monthly from the official conferences web page. 
+
+
+### Airbnb impact analysis
+
+To measure the impact that airbnb has had in the Mexico City housing and renting, I compiled the information of airbnbs within the city, along with their median cost, and their geographical location. This project is currently in development.
+
+<iframe src="/docs/assets/images/mapa.html" height="600px" width="100%" style="border:none;"></iframe>
+
 ### Publications
 
 As part of my work I have also created projects which purpose is to advance the academic literature of migration/refugees policies implementation through data analysis. As part of this effort I have written papers and book chapters outlining different aspects of policy implementation. 
 
 
-<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/imig.12910">The Cartagena Declaration analysis paper is available here</a>
+For example, I co-authored a paper that used 565 refugee status determinations to analyze the systematic discriminatory implementation of the Cartagena Declaration within the mexican asylum system.
 
-<a href="https://www.mqup.ca/voluntary-and-forced-migration-in-latin-america-products-9780228011842.php?page_id=46&#!prettyPhoto">The book is available here</a>
+<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/imig.12910">The Cartagena Declaration analysis paper published in the journal International Migration is available here</a>
 
-## Work in progress
+Another example is a book chapter where I analyzed the evoluiton of legislative and administrative migrant policies in Mexico, since the entry of force of the Migration Law. 
 
-### Text mining of morning conferences "Mañaneras" of president Andrés Manuel López Obrador (AMLO)
-
-
-### Airbnb impact analysis
-
-<iframe src="/docs/assets/images/mapa.html" height="600px" width="100%" style="border:none;"></iframe>
-
-
+<a href="https://www.mqup.ca/voluntary-and-forced-migration-in-latin-america-products-9780228011842.php?page_id=46&#!prettyPhoto">The book published by Mc Gll is available here</a>
 
 
 ## For fun projects
@@ -156,10 +163,6 @@ As part of my work I have also created projects which purpose is to advance the 
 Created a simple platforming game in Javascript with a character drawn by my wife. The purpose was testing my basic Javscript programming skills. You can play it below!
 
 <iframe src="/docs/assets/images/game/index.html" height="600px" width="100%" style="border:none;"></iframe>
-
-
-
-
 
 
 
