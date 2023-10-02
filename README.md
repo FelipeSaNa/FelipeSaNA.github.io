@@ -139,6 +139,8 @@ This project analyzes official information on the deployment of the National Gua
 
 ![Airport rejections in Mexico](/docs/assets/images/detenciones_despliegue_gif_200.gif)
 
+<a href="https://seguridad.nexos.com.mx/guardia-nacional-y-detencion-de-personas-migrantes/">A short analysis is available here</a>
+
 ### Airbnb impact analysis
 
 To measure the impact that airbnb has had in the Mexico City housing and renting, I compiled the information of airbnbs within the city, along with their median cost, and their geographical location. This project is currently in development.
