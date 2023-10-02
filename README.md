@@ -25,7 +25,7 @@ The template was made using Inkscape and the IOM-Branding guidelines to ensure t
 
 ![Alt Text](/docs/assets/images/indice_reporte_delitos.PNG)
 
-![Alt Text](/docs/assets/images/ejemplo_delitos_informe.PNG)
+![Alt Text](/docs/assets/images/ejemplo_delitos_informe.png)
 
 
 ### Report on displacement
