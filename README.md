@@ -13,7 +13,6 @@ I generated two interactive dashboards in Power-BI based on case analysis and st
 ![Alt Text](/docs/assets/images/dashboard_1.png)
 ![Alt Text](/docs/assets/images/dashboard_2.png)
 
-<a href="https://app.powerbi.com/links/zanivRMLKn?ctid=1588262d-23fb-43b4-bd6e-bce49c8e6186&pbi_source=linkShare/">A dummy dashboard is available here</a>
 
 ### Automated reporting 
 
