@@ -30,8 +30,7 @@ The template was made using Inkscape and the IOM-Branding guidelines to ensure t
 
 ### Report on displacement
 
-I co-designed, co-coordinated, and co-implemented a research project regarding the internally displaced persons, returnees, and migrants arriving at 12 points of interest in the northern Mexican border. For the project, a sample of 638 migrants (including information on their 1142 family members) was collected
-using KOBO toolbox. The data was cleaned and analyzed with the R programming language for a report (published in July 2023 by IOM).
+I co-designed, co-coordinated, and co-implemented a research project regarding the internally displaced persons, returnees, and migrants arriving at 12 points of interest in the northern Mexican border. For the project, a sample of 638 migrants (including information on their 1142 family members) was collected using KOBO toolbox. The data was cleaned and analyzed with the R programming language for a report (published in July 2023 by IOM).
 
 ![Alt Text](/docs/assets/images/Portada_informe_desplazamiento.PNG)
 
@@ -48,7 +47,7 @@ using KOBO toolbox. The data was cleaned and analyzed with the R programming lan
 
 I designed, supervised, and implemented a research project to analyze the racial profiling conducts of the Mexican Government in airports against asylum seekers and migrants. Obtained five governmental databases (from 2017 to 2021) of in-airport deportations. 
 
-The databases were cleaned, merged, and analyzed through the R programming language. Conducted 60 semi-structured interviews with key stakeholders (NGOs, International Organizations, Embassies, and Immigrants). Interviews were later compiled, classified in a database, and analyzed with Natural Language Processing tools in R programming language, and analyzed in a confidential report given to the Mexican government.
+The databases were cleaned, merged, and analyzed through the R programming language. Conducted 60 semi-structured interviews with key stakeholders (NGOs, International Organizations, Embassies, and Immigrants). Interviews were later compiled, classified in a database, and analyzed with Natural Language Processing tools in R programming language, and analyzed in a confidential report given to the Mexican government (the following graphs were created with public information).
 
 ![Alt Text](/docs/assets/images/grafica_nacionalidades_no_visa.png)
 
@@ -127,7 +126,7 @@ As part of the researchers team, I participated in a project that aimed to quant
 
 ### Text mining of morning conferences "Mañaneras" of president Andrés Manuel López Obrador (AMLO)
 
-To analyze the evolution of the migration narrative by the Mexican president, I analyze periodically the raw data of the daily morning conferencesthrough data mining and text analysis tools (tidytext, quanteda). The data is scraped (rvest) monthly from the official conferences web page. 
+To analyze the evolution of the migration narrative by the Mexican president, I analyze periodically the raw data of the daily morning conferencesthrough data mining and text analysis tools (tidytext, quanteda). The data is scraped (rvest) monthly from the official conferences web page. This project is currently in development.
 
 
 
