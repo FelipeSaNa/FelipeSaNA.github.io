@@ -1,14 +1,14 @@
-I have worked and done multiple research projects in universities, think tanks, NGOs, and international organizations, all of which had had a vital component of data collection, processing, and analysis. Some of the projects I have implemented, and achievements are briefly mentioned below:
+I have worked and done multiple research projects in universities, think tanks, NGOs, and international organizations, all of which had a vital component in data collection, processing, and analysis. Some of the projects I have implemented and achievements are briefly mentioned below:
 
 ## Data Analysis projects as part of the International Organization on Migration (IOM) 
 
-As part of my work at the International Organization on Migration (Mexico), I have been in charge of the collection, cleaning and data analysis of the  statistical information on the cases arriving at the Protection Unit in the 7 IOM offices where the unit has a presence (Tapachula, Mexico City, Monterrey, Ciudad Juárez, Tenosique, Mexicali, Tijuana). The information is cleaned, merged, and analyzed monthly using the R programming langauge to ensure its quality and accesibility.
+As part of my work at the International Organization on Migration (Mexico), I have been in charge of the collection, cleaning, and data analysis of the statistical information on the cases arriving at the Protection Unit in the 7 IOM offices where the unit has a presence (Tapachula, Mexico City, Monterrey, Ciudad Juarez, Tenosique, Mexicali, Tijuana). The information is cleaned, merged, and analyzed monthly using the R programming language to ensure its quality and accessibility.
 
-To ensure the information flow and its usability for decision-making within IOM, i designed two data visualization tools: 1) Interactive dashboards, 2) Automated reports.
+To ensure the information flow and its usability for decision-making within IOM, I designed two data visualization tools: 1) Interactive dashboards and 2) Automated reports.
 
 ### Data visualization dashboard
 
-I Generated two interactive dashboards in Power-BI based on case analysis and statistical information visualization of the information collected by the protection unit. The information was previously prepared with the R programming language, and later exported to the dashboard.
+I generated two interactive dashboards in Power-BI based on case analysis and statistical information visualization of the information collected by the protection unit. The information was previously prepared with the R programming language and later exported to the dashboard.
 
 ![Alt Text](/docs/assets/images/dashboard_1.png)
 ![Alt Text](/docs/assets/images/dashboard_2.png)
