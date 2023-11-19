@@ -86,8 +86,6 @@ Obtained, cleaned, and analyzed a governmental database of 918,468 observations 
 
 Created an interactive network of more than 150 relevant actors and their relationships in 8 grave human rights violations cases and the Mexico-United States drug policy. The information was cleanded and analyzed with the R programming language (tidyverse, visNetwork, and igraph packages).
 
-<iframe src="/docs/assets/images/red_actores_sistema_justicia.html" height="600px" width="100%" style="border:none;"></iframe>
-
 
 ## Data Analysis projects as part of the Human Rights Center of Universidad Iberoamericana
 
